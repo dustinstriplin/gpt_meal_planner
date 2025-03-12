@@ -1,0 +1,928 @@
+Type: Dinner
+Prep Time: 1 hour
+Cook Time: 8 hours
+Name: Over The Top Chili
+Chef: Dustin
+Recipe:
+	1.5 lbs ground beef
+    1 lb jimmy dean breakfast sausage
+    0.75 Tbsp chili seasoning to mix into meatball.
+    10 oz dried beans (kidney, pinto, black, or whatever) see instructions on rehydrating
+    2 medium red onions
+	1 white onion
+    3 Tbsp garlic, minced
+    5 14.5 can fire roasted tomatoes
+    1 15 oz can tomato sauce
+    2 chipotle pepper
+	1-1/2 Tbsp sauce from can Chipotles in Adobo. 
+    1 cinnamon stick
+    2 oz high quality dark chocolate
+    1 can beef stock
+    3 Tbsp Meat Church Texas Chili Seasoning 
+    1 tsp better than beef seasoning
+    1 Light lager 
+	
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 8 hours
+Name: Mississippi Pot Roast
+Chef: Dustin
+Recipe:
+	1 3 lb chuck roast
+	1/2 jar pepperoncini
+	1/2 pepperoncini juice
+	1/2 cup unsalted butter
+	1 packet au jus gravy mix
+	salt to taste
+	ground pepper to taste
+	
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 15 minutes
+Name: Breaded pork chops with mustard sauce
+Chef: Dustin
+Recipe:
+	4 thick boneless pork loin chops
+	salt to taste
+	pepper to taste
+	2 tsp pork chop seasoning
+	1/2 cup almond flour
+	1 Tbsp olive oil
+	3/4 cup chicken broth
+	1/2 cup half and half
+	2 Tbsp Dijon mustard
+	
+	
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 1 hour 30 minutes
+Name: Traditional BBQ Chicken
+Chef: Dustin
+Recipe:
+	1 whole chicken or 1 pack chicken legs
+	1 gal water
+	3/4 cup kosher salt
+	1/4 cup white sugar
+	2 Tbsp Garlic powder
+	2 Tbsp Smoked paprika
+	1 Tbsp Oregano
+	2 Tbsp Onion powder
+	
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 1 hour 30 minutes
+Name: Herb Injected BBQ Chicken
+Chef: Dustin
+Recipe: 
+	1 whole chicken
+	1/4 cup olive oil
+	1 can Chicken Broth
+	4 tbsp butter
+	3 cloves Garlic (Minced)
+	1/2 tsp Black pepper corns
+	1 tsp salt
+	1/8 tsp black pepper
+	1 sprig Rosemary (fresh if possible)
+	3 sprigs Lemon Thyme (fresh if possible)
+	1 bay leaf
+	1/2 tsp onion powder
+	
+
+Type: Dinner
+Prep Time: 30 minutes
+Cook Time: 2 hours
+Name: Beef Stew
+Chef: Dustin
+Recipe: 
+    2 pounds cubed beef stew meat
+    1/4 cup all purpose flour
+    1/2 tsp fresh ground pepper
+    1 tsp onion powder
+    1 tsp garlic powder
+    3 tablespoons vegetable oil
+	4 tsp better than bouillon beef or 4 cubes beef bouillon
+    3-1/2 cups water
+    1/2 cup red wine
+    1 Tablespoon fresh rosemary
+    1 teaspoon dried parsley
+	8 Golden potatoes
+    4 carrots
+    5 stalks celery, cut into 1 inch pieces
+    1 large yellow onions
+    2 shallot
+    1 cup water
+    1 tsp worcestershire sauce
+    1 tsp A1
+    1 tsp ketchup
+    1-1/2 tsp kosher salt
+    2-1/2 tsp cornstarch
+    2-1/2 tsp cold water
+	
+	
+Type: Dinner
+Prep Time: 30 minutes
+Cook Time: 8 hours
+Name: BBQ Pork Butt
+Chef: Dustin
+Recipe: 
+    1 cup apple juice
+    1/2 cup water
+    1/2 cup white sugar
+    1/4 cup kosher salt
+    2 Tablespoons Worcestershire Sauce
+	1 pork shoulder
+	
+
+Type: Dinner
+Prep Time: 30 minutes
+Cook Time: 8 hours
+Name: BBQ Pork Butt
+Chef: Dustin
+Recipe: 
+    1 cup apple juice
+    1/2 cup water
+    1/2 cup white sugar
+    1/4 cup kosher salt
+    2 Tablespoons Worcestershire Sauce
+	1 pork shoulder
+	Hamburger buns
+	cole slaw
+	cheddar cheese
+	
+	
+Type: Dinner
+Prep Time: 30 minutes
+Cook Time: 8 hours
+Name: Jambalaya
+Chef: Dustin
+Recipe: 
+	5 stalks celery
+	1 whole yellow onion
+	1 green pepper
+	1 orange pepper
+	1 pack Andouille sausage
+	1 pack chicken thighs
+	1/2 tsp thyme
+	1/2 tsp oregano
+	3.5 cups chicken stock
+	3.5 cups seafood stock
+	1 box zatarains Jambalaya
+	1 pack frozen shrimp
+
+
+Type: Dinner
+Prep Time: 30 minutes
+Cook Time: 30 minutes
+Name: Sloppy Joe
+Chef: Dustin
+Recipe: 
+	3 cloves garlic
+	1/4 cup green pepper
+	1 med sized chopped yellow onion
+	1 lb ground beef
+	1 can tomato soup
+	1/4 cup ketchup
+	1 tsp salt
+	1/2 tsp pepper
+	1 Tbsp brown sugar
+	1 Tbsp Apple Cider Vinegar
+	4 Tbsp Butter
+	1/4 tsp mustard powder
+	1/4 tsp liquid smoke
+	Hamburger buns
+
+
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 20 minutes
+Name: Teriyaki
+Chef: Dustin
+Recipe: 
+	1/8 cup rice wine vinegar
+	1/4 cup mirin
+	1/4 cup water
+	3/4 Tbsp powdered garlic (or 5 cloves grated)
+	1 tablespoons cornstarch
+	1 tsp powdered ginger or 3 tsp fresh grated
+	1/2 cup brown sugar
+	1/2 cup soy sauce (sub ½ dark for some of the soy)
+	6 chicken thighs
+	2 cups rice
+	sesame dressing
+	
+	
+Type: Dinner
+Prep Time: 30 minutes
+Cook Time: 20 minutes
+Name: Pizza (fresh)
+Chef: Dustin
+Recipe:
+    4-1/2 cups warm water
+    3 Tbsp sugar
+    42.5 grams active dry yeast
+    12 cups all-purpose flour
+    6 Tbsp kosher salt or sea salt
+    .5 cup extra-virgin olive oil
+	1 jar pizza sauce
+	pepperoni or canadian bacon
+	olives or pineapple
+	1 block mozzerella cheese
+
+
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 20 minutes
+Name: Pizza (frozen)
+Chef: Dustin
+Recipe:
+	3 pizza dough balls
+	1 jar pizza sauce
+	pepperoni or canadian bacon
+	olives or pineapple
+	1 block mozzerella cheese
+	
+
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 20 minutes
+Name: Korean Fried Chicken Wings
+Chef: Dustin
+Recipe:
+    2 lbs chicken wings
+    2 tsp (6g) salt
+    1 Tbsp (8g) grated ginger
+    Fresh cracked pepper
+    1 cup (165g) potato starch or cornstarch
+	1/4 cup (85g) gochujang
+    3 Tbsp (45g)  ketchup
+    2 Tbsp (33g) mirin
+    2 Tbsp (30g) dark soy sauce
+    2 Tbsp (42g) honey
+    1 Tbsp (15g) brown sugar
+    4 cloves garlic
+    1.5 Tbsp (24g) rice vinegar
+	
+
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 20 minutes
+Name: Korean Fried Chicken Sandwich
+Chef: Dustin
+Recipe:
+    4 chicken thighs
+    2 tsp (6g) salt
+    1 Tbsp (8g) grated ginger
+    Fresh cracked pepper
+    1 cup (165g) potato starch or cornstarch
+	1/4 cup (85g) gochujang
+    3 Tbsp (45g)  ketchup
+    2 Tbsp (33g) mirin
+    2 Tbsp (30g) dark soy sauce
+    2 Tbsp (42g) honey
+    1 Tbsp (15g) brown sugar
+    4 cloves garlic
+    1.5 Tbsp (24g) rice vinegar
+	
+	
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 20 minutes
+Name: Cheeseburger Salad
+Chef: Dustin
+Recipe:
+	1 lb hamburger
+	1/4 lb cheddar cheese
+	Thousand Island dressing
+	dill pickels
+	2 heads romaine lettuce
+	1 tomato
+	1 yellow onion
+	sesame seeds
+	1/2 lb bacon
+	
+
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 6 hours
+Name: Pork Ribs
+Chef: Dustin
+Recipe:
+	1 rack of pork ribs
+	pork rub
+	yellow mustard
+	
+
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 10 minutes
+Name: BLT
+Chef: Jamie or Dustin
+Recipe:
+	1 lb bacon
+	sandwich bread
+	1 head lettuce
+	1 tomato
+	mayonnaise
+	
+	
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 10 minutes
+Name: Grilled Cheese Sandwich
+Chef: Jamie or Dustin
+Recipe:
+	cheddar cheese
+	sandwich bread
+	unsalted butter
+	may optionally include sliced deli ham
+
+
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 10 minutes
+Name: Tacos
+Chef: Jamie or Lori
+Recipe:
+	1 lb ground beef
+	1 taco seasoning packet
+	hard taco shells
+	soft taco shells
+	1 head lettuce
+	cheddar cheese
+	1 tomato
+	1 can refried beans
+	1 yellow onion
+	1 container sour cream
+	Taco Sauce
+	
+	
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 10 minutes
+Name: Taco Salad
+Chef: Jamie, Lori, Dustin
+Recipe:
+	1 lb ground beef
+	1 taco seasoning packet
+	2 heads lettuce
+	Taco Sauce
+	cheddar cheese
+	1 tomato
+	1 can refried beans
+	1 yellow onion
+	1 container sour cream
+	
+
+
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 10 minutes
+Name: French Dip
+Chef: Jamie or Dustin
+Recipe:
+	1 pack hoagie rolls
+	1 lb roast beef or frozen brisket
+	1 pack au jus
+	1 yellow onion
+	swiss cheese
+	horse radish
+	
+
+Type: Breakfast
+Prep Time: 10 minutes
+Cook Time: 10 minutes
+Name: Pork and Eggs
+Chef: Jamie, Dustin, Lori
+Recipe:
+	1 lb bacon or 1 pack breakfast sausage
+	eggs
+	Bread
+	
+	
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 15 minutes
+Name: Korean Rice Bowl
+Chef: Jamie or Dustin
+Recipe:
+	1/4 cup low sodium soy sauce*
+	2 teaspoons light brown sugar
+	1 teaspoon sesame oil
+	1/2 teaspoon crushed red pepper flakes
+	cooking spray
+	1 lb lean ground beef
+	1/4 cup yellow onion
+	2 garlic cloves
+	1 teaspoon fresh grated ginger
+	2 cups white rice
+	1 small sliced cucumber, skin on
+	2 tablespoons Gochujang Sauce
+	1/2 tablespoon sesame seeds
+	2 sliced green onions
+	
+
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 30 minutes
+Name: African Peanut Stew
+Chef: Jamie or Dustin
+Recipe:
+	2 Tbsp olive oil
+	1/4 cup finely diced red onion
+	1 Tbsp finely minced ginger root
+	2 tsp. finely minced jalapeno
+	salt to taste
+	1 tsp. chile powder
+	1 cup chicken stock or broth
+	1/2 cup chunky natural peanut butter
+	2 Tbsp tomato paste
+	1 Tbsp cider vinegar
+	3 cups diced, cooked chicken
+	fresh ground black pepper to taste
+	2 green onions, thinly sliced
+	1/4 cup peanuts
+	
+	
+Type: Dinner
+Prep Time: 30 minutes
+Cook Time: 45 minutes
+Name: Zuppa Toscana
+Chef: Jamie or Dustin
+Recipe:
+	1 pound bulk mild Italian sausage
+	1-1/4 teaspoons crushed red pepper flakes
+	1/2 lb bacon
+	1 large yellow onion
+	1 tablespoon garlic
+	5 (13.75 ounce) cans chicken broth
+	6 medium potatoes, thinly sliced
+	1 cup heavy cream
+	1/4 bunch fresh spinach, tough stems removed
+	
+
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 25 minutes
+Name: Sausage and Veggie Bowls in Mustard Sauce
+Chef: Jamie or Dustin
+Recipe:
+	4 fully cooked sausages, sliced into circles 1/4 inch thick
+	12 oz broccoli
+	1 bell pepper, any color
+	1/2 white onion
+	4 oz sliced mushrooms
+	3 tbsp olive oil, extra virgin
+	1/2 tsp salt
+	1/2 tsp black pepper
+	1/2 tsp garlic powder
+	1/2 tsp dried oregano
+	1/2 tsp dried basil
+	1/4 cup mayonnaise
+	1 tbsp dijon mustard
+	1 tbsp water
+	1/2 tsp lemon juice
+	1/2 tsp garlic
+	1/8 tsp salt
+	
+
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 20 minutes
+Name: Steak
+Chef: Dustin
+Recipe:
+	New York or Rib Eye Steak
+	Salt
+	Pepper
+	garlic powder
+
+
+	
+Type: Dinner
+Prep Time: 1 hour
+Cook Time: 20 hours
+Name: Brisket
+Chef: Dustin
+Recipe:
+	1 Brisket
+	
+
+Type: Dinner
+Prep Time: 1 hour
+Cook Time: 20 hours
+Name: Brisket (reheated)
+Chef: Jamie or Dustin
+Recipe:
+	Frozen brisket
+	
+	
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 1 hour
+Name: Tritip
+Chef: Dustin
+Recipe:
+	1 Tritip
+	Salt
+	Pepper
+	
+
+Type: Breakfast
+Prep Time: 15 minutes
+Cook Time: 12 minutes
+Source: https://docs.google.com/document/d/1XXeNw8mYn5TtPnwfjTKUwu4u7Igjmle7btmBpX5K2RE/edit?usp=sharing
+Name: Biscuits and Gravy
+Chef: Dustin
+Recipe:
+	2-1/8 cups all-purpose flour (250g)
+	1 Tablespoon baking powder
+	1 Tablespoon granulated sugar
+	1 teaspoon salt
+	8 Tablespoons (1 stick) unsalted butter frozen
+	3/4 cup whole milk
+	1 (9.6 ounce) package Jimmy Dean® Original Hearty Pork Sausage Crumbles
+	2-1/2 cups milk
+	Salt to taste
+	Black Pepper to taste
+
+
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 40 minutes
+Source: https://thecozycook.com/chicken-and-dumplings/
+Name: Chicken and Dumplings
+Chef: Dustin
+Recipe:
+	1 tablespoon olive oil
+	2 lbs. bone-in skinless chicken breast or thighs see notes
+	Salt & Pepper to taste
+	5 tablespoons butter
+	1 small yellow onion diced
+	1-1/2 cup carrots diced
+	3 sticks celery diced
+	3 cloves garlic minced
+	1 teaspoon Worcestershire sauce
+	1 Teaspoon hot sauce I use Franks hot sauce
+	1/3 cup flour
+	4-1/2 cups chicken broth
+	1 chicken bouillon cube optional
+	1-1/2 cups half and half
+	1 teaspoon onion powder
+	1/2 teaspoon EACH: dried basil, parsley, thyme, rosemary, mustard powder
+	1/4 teaspoon ground sage
+	1/8 teaspoon pepper
+	2 cups cake flour or all-purpose flour
+	2 teaspoons baking powder
+	1/2 teaspoon baking soda
+	1 teaspoon salt
+	1/2 teaspoon garlic powder
+	2 teaspoons sugar
+	3/4 cup cold sour cream
+	1/4 cup cold milk
+	4 tablespoons butter melted
+	
+	
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 15 minutes
+Source: https://www.food.com/amp/recipe/parmesan-crusted-salmon-212167
+Name: Parmeson crusted salmon
+Chef: Dustin
+Recipe:
+	1  lb fresh salmon fillet
+	1/4 cup mayonnaise
+	1/3 cup parmesan cheese
+	1/2 teaspoon garlic powder (or to taste)
+	1/2 teaspoon dried chives (or to taste)
+	1/2 teaspoon dried parsley (or to taste)
+	fresh ground black pepper
+	
+	
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 40 minutes
+Source: https://www.skinnytaste.com/instant-pot-pork-carnitas-mexican/
+Name: Instant Pot Carnitas
+Chef: Jamie or Dustin
+Recipe:
+	2 1/2 pounds pork shoulder
+	2 teaspoons kosher salt
+	black pepper
+	6 cloves garlic
+	1 1/2 teaspoons cumin
+	1/2 teaspoon sazon
+	1/4 teaspoon dry oregano
+	1 cup reduced sodium chicken broth
+	2-3 chipotle peppers in adobo sauce
+	2 bay leaves
+	1/4 teaspoon dry adobo seasoning
+	1/2 teaspoon garlic powder
+	
+	
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 40 minutes
+Source: https://docs.google.com/document/d/1kjuJH88v242Qb_bLT55UpPTlI0mHY_eZuZAJu3BDrC4/edit?usp=sharing
+Name: Mojo Carnitas
+Chef: Dustin
+Recipe:
+	1 (4-5 pound) lean boneless pork roast
+	1 tablespoon avocado oil or olive oil
+	1 bunch fresh cilantro
+	1 white onion
+	1 cup light lager or chicken stock
+	1 head of garlic
+	1/2 cup orange juice
+	1/4 cup lime juice
+	1 teaspoon dried oregano
+	1 teaspoon ground cumin
+	1 teaspoons fine sea salt
+	1/2 teaspoon black pepper
+
+
+
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 6 hours
+Source: https://www.skinnytaste.com/slow-cooker-banh-mi-rice-bowls/#recipe
+Name: Banh Mi Bowl
+Chef: Jamie or Dustin
+Recipe:
+	1 pound pork tenderloin
+	1/4 teaspoon kosher salt
+	1/8 teaspoon freshly ground pepper
+	3 cloves garlic
+	2 jalapeno
+	1/4 cup reduced sodium soy sauce
+	1 tablespoon brown sugar
+	6 tablespoons distilled white vinegar
+	1/4 cup sugar
+	1/4 teaspoon kosher salt
+	1 cup shredded carrots
+	2 radishes
+	3 cups cooked white rice
+	1 cup shredded red cabbage
+	1 cup English cucumbers
+	1/4 cup fresh cilantro leaves
+	
+	
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 20 minutes
+Source: https://www.skinnytaste.com/crock-pot-chicken-enchilada-soup/#recipe
+Name: Chicken Enchilada Soup
+Chef: Jamie or Dustin
+Recipe:
+	2 tsp olive oil
+	1/2 cup onion
+	3 cloves garlic
+	3 cups less sodium chicken broth
+	8 oz can tomato sauce
+	1-1/2 tsp chipotle chili in adobo sauce
+	1/4 cup chopped cilantro
+	15 oz can black beans
+	14.5 oz can petite diced tomatoes
+	2 cups frozen corn
+	1 tsp cumin
+	1/2 tsp dried oregano
+	2 skinless chicken breasts
+	3/4 cup shredded cheddar cheese
+	1/4 cup chopped scallions
+	1/4 cup chopped cilantro
+	1 small haas avocado, diced
+	6 tbsp sour cream
+	
+
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 20 minutes
+Source: https://docs.google.com/document/d/1UWCzpkcaVFaMKSoPOfTTKZlZK_j2aTEIIc9BEu71Dr8/edit?usp=sharing
+Name: Dusty's Fried Chicken
+Chef: Dustin
+Recipe:
+	3 Tsp freshly ground black pepper
+	1.5 Tsp Cayanne pepper
+	1.5 Tsp Garlic powder
+	2 Tsp Lemon pepper blend
+	1.5 Tsp Onion Powder
+	1 Tsp Paprika
+	2 cups all purpose flour
+	1 Tbsp kosher salt
+	2 Tbsp corn starch
+	1 cup butter milk
+	1 egg
+	2 Tbsp Bourbon
+
+
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 20 minutes
+Source: https://docs.google.com/document/d/1Ib54tZuRj9YJXAgBjQJB3IFUoqFI6qPwHHWEu5v9LOU/edit?usp=sharing
+Name: Fried Rice
+Chef: Dustin
+Recipe:
+	2 cups rice
+	2 eggs
+	almost any protein, pork and shrimp preferred, can use leftovers
+	1 shallot
+	2 cloves garlic
+	3 tbsp each oyster sauce and soy sauce
+	1 tbsp Sesame oil
+	1 tbsp Msg
+	pepper
+	1 can water chestnuts
+	1 tbsp sesame seeds
+	2 tbsp vegetable oil
+	3 green onion
+	1/4 cup unsalted butter
+
+
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 10 minutes
+Source: https://drive.google.com/file/d/1UuDLiyWm-2QJiONWeYk1_vzjs0rD4MfA/view?usp=sharing
+Name: Oriental Chicken Salad
+Chef: Dustin
+Recipe:
+	1 head cabbage or 2 bags shredded cabbage
+	2 bunches green onions
+	1 lb chicken strips
+	2 packages ramen noodles
+	1/2 cup sesame seeds
+	1 package slivered almonds
+	3/4 cup olive oil
+	2 tbsp soy sauce
+	2 tbsp rice vinegar
+	1/4 cup sugar
+	
+
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 10 minutes
+Source: https://docs.google.com/document/d/1xHlH_xsxEhLd7RclHm-Sg6EhNYAnvtuX2AsFSyXHgmM/edit?usp=sharing
+Name: Dill Salmon
+Chef: Dustin
+Recipe:
+	1/2 cup mayonnaise 
+	2 tablespoon chopped fresh dill, or to taste
+	4 teaspoons Dijon mustard
+	6 pinches brown sugar, or to taste
+	2 teaspoon vegetable oil
+	1 pound salmon fillet, skin on
+
+
+Type: Dinner
+Prep Time: 40 minutes
+Cook Time: 1 hour
+Source: https://docs.google.com/spreadsheets/d/11vWtgKLAPAiTuIHboOo4Ngtah2J1GEseKBT8OG4LtUs/edit?usp=sharing
+Name: Chicken Pot Pie
+Chef: Dustin
+Recipe:
+	0.5	cups diced peeled potatoes
+	0.438 cups sliced carrots
+	0.25 cup butter cubed
+	0.165 cup chopped onion
+	0.25 cup all-purpose flour
+	0.438 teaspoons salt
+	0.25 teaspoon dried thyme
+	0.188 teaspoon pepper
+	0.75 cups chicken broth
+	0.375 cups milk
+	1 cups cubed cooked chicken
+	0.25 cup frozen corn
+	0.25 cup celery
+	2 units refrigerated pie pastry
+	3-1/2 sticks butter
+	2 Tablespoon red wine vinegar
+	4-1/2 cups all purpose flour
+	1 tbsp and 1-1/2 tsp kosher salt
+	1 tbsp white sugar
+
+
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 20 minutes
+Source: easy meal, no link
+Name: Spaghetti
+Chef: Jamie or Dustin
+Recipe:
+	1 jar marinara or pasta sauce
+	1 pack of pasta
+	meatballs or 1 lb ground beef
+	
+	
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 10 minutes
+Source: easy meal, no link
+Name: Chicken Strip Salad
+Chef: Jamie or Dustin
+Recipe:
+	6 chicken strips
+	2 heads romaine lettuce
+	cheddar cheese
+	ranch and blue cheese salad dressing
+	carrots
+	cucumber
+	croutons
+	tomatos optional
+	radishes optional
+	green onion optional
+	
+	
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 30 minutes
+Source: easy meal, no link
+Name: BBQ Chicken Salad
+Chef: Jamie and Dustin, or just Dustin
+Recipe:
+	3 chicken breasts
+	2 heads romaine lettuce
+	cheddar cheese
+	ranch salad dressing
+	barbeque sauce
+	carrots
+	cucumber
+	tortilla strips
+	tomatos optional
+	green onion optional
+	1/8 cup olive oil
+	
+	
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 30 minutes
+Source: easy meal, no link
+Name: Meatball Subs
+Chef: Jamie or Dustin
+Recipe:
+	Hoagie rolls
+	meatballs
+	Marinara sauce
+	yellow onion
+	mozzerella cheese
+	
+
+Type: Dinner
+Prep Time: 20 minutes
+Cook Time: 30 minutes
+Source: https://drive.google.com/file/d/1tHyT6-SR9zcF2zE6pRH0oaZ0xAYmhJd8/view?usp=sharing
+Name: Snitzel with spaetzle
+Chef: Dustin
+Recipe:
+	5 eggs
+	3-1/2 cup All purpose flour
+	nutemeg
+	3 cups pretzels
+	3 bonless pork chops
+	kosher salt
+	black pepper
+	vegetable oil
+	1/4 cup milk
+	1/4 cup unsalted butter
+	fresh sage or 1/4 cup chives
+	
+
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 30 minutes
+Source: easy meal, no link
+Name: Meatball Subs
+Chef: Jamie or Dustin
+Recipe:
+	Hoagie rolls
+	meatballs
+	Marinara sauce
+	yellow onion
+	mozzerella cheese
+	
+
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 30 minutes
+Source: easy meal, no link
+Name: Pre-prepared carne asada
+Chef: Dustin
+Recipe:
+	1 pack carne asada meat
+	2 yellow onion
+	3 bell peppers
+	flour tortillas
+	sour cream
+	
+
+Type: Dinner
+Prep Time: 10 minutes
+Cook Time: 20 minutes
+Source: easy meal, no link
+Name: Crunchy buffalo chicken wrap
+Chef: Dustin or jamie
+Recipe:
+	flour tortillas
+	ranch dressing
+	buffalo sauce
+	chicken strips
+	yellow onion
+	lettuce
+	cheddar cheese
