@@ -1,9 +1,12 @@
 Staples:
     water
     kosher salt
+    able salt
+    sea salt
     white sugar
     honey
     Cornstarch
+    potato starch
     Baking soda
     Baking powder
 
@@ -13,6 +16,8 @@ Dried goods:
     tipo 00 flour
     neopolitan flour
     White rice
+    corn flour
+
 
 
 Oils:
@@ -20,6 +25,8 @@ Oils:
     vegetable oil
     avocado oil
     cooking spray
+    sesame oil
+    truffle oil
 
 
 Vinegars:
@@ -37,10 +44,85 @@ Sauces:
     A1 Sauce
     Mayonnaise
 
-
-Spices:
-    All dried spices
+bouillon:
     beef bouillon cubes
+    chicken bouillon cubes
+    better than beef
+    better than chicken
+
+mixed spices:
+    adobo seasoning
+    chinese five spice
+    garam masala
+    pumpkin pie spice
+    Korean red pepper flakes, gochugaru
+    poultry seasoning
+    montreal steak seasoning
+    johnny's garlic spread
+    Zatarains blackened seasoning
+    tomato bouillon
+    dash original
+    lawry's seasoned salt
+    beau monde seasoning
+    italian seasoning
+    salad elegance
+    liquid smoke
+    perfect pinch cajun
+    johnnys seasoning salt
+    italian seasoning
+
+
+dried spices and herbs:
+    parsley
+    cayenne pepper
+    allspice
+    white pepper
+    celery salt
+    curry powder
+    tumeric
+    celery seed
+    thyme
+    cumin
+    bay leaves
+    nutmeg
+    cumin seeds
+    caraway
+    sage
+    coriander
+    basil
+    rosemary
+    paprika
+    onion powder
+    mustard powder
+    oregano
+    dill
+    tarragon
+    poppy seed
+    cream of tartar
+    minced onion
+    garlic salt
+    chives
+    whole cloves
+    clove
+    ginger
+    cardamom
+    lemon pepper
+    chipotle chili powder
+    cinnamon sticks
+    cinnamon
+    coarse black pepper
+    fresh black pepper
+    whole black pepper
+    msg
+    smoked paprika
+    minced black truffle
+    fennel seeds
+    garlic powder
+    crushed red pepper
+    ground cinnamon
+    active dry yeast
+    roasted white sesame seeds
+    garlic salt
 
 
 Dairy:
