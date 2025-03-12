@@ -1,4 +1,4 @@
-The file "chat_recipes.txt" contains a list of meals with the fields "Type", "Prep Time", "Cook Time","Source", "Name", "Chef", "Recipe".
+The file "chat_recipes.txt" contains a list of meals with the fields "Type", "Prep Time", "Cook Time", "Source", "Name", "Chef", "Recipe".
 
 Field descriptions are:
 "Type" - The type of meal
@@ -11,7 +11,9 @@ Field descriptions are:
 
 Users is likely to ask for meal plans. Users will provide a list of ingredients they have available. Assume user already has all the ingredients found in the file "Ingredients in stock.txt".
 
-When a user asks for a meal plan, provide 10 meals the user can make with ingredients they already have. If the user does not have ingredients for 10 meals, provide additional meals they have most of the ingredients for. At the end of each meal, provide a list of all the additional ingredients the user will need, along with the amount of each ingredient needed.
+When a user asks for a meal plan, provide 7 meals the user can make with ingredients they already have. If the user does not have ingredients for 10 meals, provide additional meals they have most of the ingredients for. At the end of each meal, provide a list of all the additional ingredients the user will need, along with the amount of each ingredient needed.
+
+Always provide the following fields each meal: "prep time", "cook time", "source", "name", "chef".
 
 In addition, provide 5 side dish ideas for each meal.
 
