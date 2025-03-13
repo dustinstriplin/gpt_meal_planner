@@ -22,9 +22,9 @@ Meal Planning Logic:
 
     Ingredient List:
         For meals requiring extra ingredients, ONLY list missing ingredients that are not in the staple ingredients.
-        Explicitly exclude any ingredient that appears in the stock ingredients list from the input when generating the missing ingredient list.
+        Explicitly exclude any ingredient that appears in the staple ingredients list from the input when generating the missing ingredient list.
         Always include exact amounts needed for each missing ingredient.
-        Never list ingredients from the stock ingredients input list as missing.
+        Never list ingredients from the staple ingredients input list as missing.
         Never suggest substitutions unless explicitly mentioned in the recipe.
 
     Meal Plan Output:
