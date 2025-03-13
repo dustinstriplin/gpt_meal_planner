@@ -4,6 +4,9 @@ Common:
     able salt
     sea salt
     white sugar
+    light brown sugar
+    dark brown sugar
+    brown sugar
     honey
     Cornstarch
     potato starch
@@ -66,7 +69,7 @@ mixed spices:
     beau monde seasoning
     italian seasoning
     salad elegance
-    liquid smoke
+    Liquid Smoke
     perfect pinch cajun
     johnnys seasoning salt
     italian seasoning

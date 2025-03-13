@@ -15,7 +15,7 @@ Meal Planning Logic:
         Read the contents of "Ingredients in stock.txt" and append it to the user input as a list of staple ingredients.
 
     Meal Selection:
-        Generate a 7-meal plan based on the user’s available ingredients.
+        Generate a 7-meal plan based on the user’s available ingredients and ensure the meals have a protein available by the user.
         Prioritize meals that can be made entirely with the provided ingredients.
         If fewer than 7 meals can be made entirely, fill the remaining slots with meals that require some additional ingredients.
 
