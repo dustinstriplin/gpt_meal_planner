@@ -437,7 +437,7 @@ Recipe:
 	1/2 cup chunky natural peanut butter
 	2 Tbsp tomato paste
 	1 Tbsp cider vinegar
-	3 cups diced, cooked chicken
+	3 cups chicken
 	fresh ground black pepper to taste
 	2 green onions, thinly sliced
 	1/4 cup peanuts
@@ -466,7 +466,7 @@ Cook Time: 25 minutes
 Name: Sausage and Veggie Bowls in Mustard Sauce
 Chef: Jamie or Dustin
 Recipe:
-	4 fully cooked sausages, sliced into circles 1/4 inch thick
+	4 sausages, sliced into circles 1/4 inch thick
 	12 oz broccoli
 	1 bell pepper, any color
 	1/2 white onion
@@ -660,7 +660,7 @@ Recipe:
 	1/4 teaspoon kosher salt
 	1 cup shredded carrots
 	2 radishes
-	3 cups cooked white rice
+	3 cups white rice
 	1 cup shredded red cabbage
 	1 cup English cucumbers
 	1/4 cup fresh cilantro leaves
@@ -788,7 +788,7 @@ Recipe:
 	0.188 teaspoon pepper
 	0.75 cups chicken broth
 	0.375 cups milk
-	1 cups cubed cooked chicken
+	1 cups chicken
 	0.25 cup frozen corn
 	0.25 cup celery
 	2 units refrigerated pie pastry
@@ -943,7 +943,7 @@ Recipe:
     1/4 cup tomato paste
     4 cups (32 ounces) low sodium beef broth , (chicken broth can be substituted)
     2 teaspoons Italian seasoning
-    6 uncooked lasagna noodles
+    6 lasagna noodles
     8 ounces ricotta cheese
     1/2 cup Parmesan cheese
     1/4 teaspoon salt
@@ -1165,7 +1165,7 @@ Recipe:
     3 Tablespoons cornstarch
     2/3 cup white vinegar
     2 Tablespoons soy sauce
-    6 cups cooked rice
+    6 cups rice
 
 
 Type: Dinner
@@ -1259,7 +1259,7 @@ Name: Stuffed pepper soup
 Source: https://www.skinnytaste.com/stuffed-pepper-soup/
 Chef: Jamie or Dustin
 Recipe:
-    3 cups cooked white rice
+    3 cups white rice
     1 lb lean ground beef
     1/2 cup chopped green bell pepper
     1/2 cup chopped red bell pepper
