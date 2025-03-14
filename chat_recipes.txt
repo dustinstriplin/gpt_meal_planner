@@ -808,7 +808,7 @@ Chef: Jamie or Dustin
 Recipe:
 	1 jar marinara or pasta sauce
 	1 pack of pasta
-	meatballs or 1 lb ground beef
+	meatballs
 	
 	
 Type: Dinner
@@ -968,7 +968,7 @@ Recipe:
     1 teaspoon ground coriander
     1 teaspoon kosher salt
     1 (16 ounce) can tomato sauce
-    4 lbs boneless skinless chicken thighs
+    4 lbs chicken thighs
     4 tablespoons butter
     1 cup heavy cream, (or sub full fat coconut milk)
 
@@ -1025,7 +1025,7 @@ Name: Slow cooker Buffalo chicken
 Source: https://www.the-girl-who-ate-everything.com/slow-cooker-buffalo-chicken/
 Chef: Jamie or Dustin
 Recipe:
-    2 lbs boneless skinless chicken breasts
+    2 lbs chicken breasts
     12 ounces Buffalo sauce
     1 (1 ounce) Ranch seasoning mix
     1/4 cup butter
@@ -1040,7 +1040,7 @@ Name: Asian meatballs
 Source: https://www.the-girl-who-ate-everything.com/asian-turkey-meatballs-with-lime/
 Chef: Jamie or Dustin
 Recipe:
-    1 lb ground turkey, (ground chicken can be used too), can also use frozen meatballs instead
+    1 lb ground turkey, ground chicken, ground beef, or frozen meatballs (omit panko and egg from recipe if using frozen meatballs)
     1/2 cup Panko breadcrumbs
     1 egg
     2 tablespoons green onions
