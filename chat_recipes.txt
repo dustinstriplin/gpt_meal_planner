@@ -1291,5 +1291,25 @@ Recipe:
     grated parmesan cheese and ricotta
 
 
-
-
+Type: Dinner
+Prep Time: 15 minutes
+Cook Time: 20 minutes
+Name: Best and Easiest Beef Bulgogi
+Source: https://asianrecipesathome.com/best-and-easiest-beef-bulgogi/
+Chef: Dustin
+Recipe:
+    2lb Ribeye beef, sliced paper-thin
+    1 Tbsp avocado oil
+    1 yellow onion (about 1 ½ cups)
+    1 carrot
+    3 green onions
+    1/2 Tbsp sesame seeds
+    2 Tbsp Sesame oil
+    1/2 Tbsp sesame seeds
+    6 Tbsp white sugar
+    1 tsp brown sugar
+    4 Tbsp soy sauce
+    1/2 tsp black pepper
+    1/4 tsp salt
+    1/4 cup water
+    6 garlic cloves, minced fine
